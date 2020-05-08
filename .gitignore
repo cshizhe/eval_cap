@@ -1,0 +1,3 @@
+*__pycache__/
+spice/lib/stanford-corenlp-3.6.0-models.jar
+spice/cache/*mdb
